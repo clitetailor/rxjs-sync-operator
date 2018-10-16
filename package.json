@@ -2,7 +2,7 @@
   "name": "rxjs-sync-operator",
   "version": "0.0.1",
   "description": "RxJS operator that runs streams in parallel",
-  "main": "index.js",
+  "main": "dist/rxjs-sync-operator.js",
   "scripts": {
     "build": "rollup -c",
     "test": "jest"

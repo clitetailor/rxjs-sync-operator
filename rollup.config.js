@@ -9,7 +9,7 @@ export default {
       format: 'cjs'
     },
     {
-      name: 'rxjs-overlap-map',
+      name: 'rxjs-sync-operator',
       globals: {
         rxjs: 'rxjs',
         'rxjs/operators': 'rxjs.operators'

@@ -4,5 +4,3 @@ node_modules
 shrinkwrap.yaml
 
 dist
-
-__test__
